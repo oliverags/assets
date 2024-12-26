@@ -1,28 +1,7 @@
 {
-    "name": "TToken",
-    "symbol": "TTO",
-    "description": "TTOKEN.",
-    "seller_fee_basis_points": 500, 
-    "image": "https://raw.githubusercontent.com/oliverags/imagens/refs/heads/main/01%20-%20Copia.png",
-    "external_url": "https://raw.githubusercontent.com/oliverags/imagens/refs/heads/main/01%20-%20Copia.png",
-    "attributes": [
-      {
-        "trait_type": "Cor",
-        "value": "Azul"
-      },
-      {
-        "trait_type": "Tamanho",
-        "value": "Grande"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://raw.githubusercontent.com/oliverags/imagens/refs/heads/main/01%20-%20Copia.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image"
-    }
-  }
-  
+  "name": "TTOKEN",
+  "symbol": "TTO",
+  "uri": "https://raw.githubusercontent.com/oliverags/assets/refs/heads/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": []
+}
